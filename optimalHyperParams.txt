@@ -1,0 +1,1 @@
+ Trial 1 finished with value: 0.979381443298969 and parameters: {'batch_size': 36, 'lr': 0.00016583879478621638, 'momentum': 0.9374218810592992, 'weight_decay': 0.0006603822752434714}. Best is trial 1 with value: 0.979381443298969.
